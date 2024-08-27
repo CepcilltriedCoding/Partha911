@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Partha
-- 👀 I’m interested in Softeware Engineering ,Web Development
+- 👀 I’m interested in Software Engineering ,Web Development
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 📫 How to reach me parthachotka@gmail.com
 - 😄 Pronouns: He/him
